@@ -1,0 +1,18 @@
+table {
+    margin-top: 20px;
+}
+
+.asd:hover{
+    background-color: darkgrey;
+    transition: 0.4s ease-in-out;
+    cursor: pointer;
+}
+
+.img-circle {
+    max-height: 50px;
+    border-radius: 50%;
+    
+}
+td {
+    vertical-align: middle;
+}
